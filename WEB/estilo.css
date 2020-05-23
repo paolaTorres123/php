@@ -1,0 +1,79 @@
+body  {
+    background-image:url("IMAGENES/lo.png");
+    background-color: #000000;
+
+}
+
+h1{
+	font-family: Century;
+	
+	font-size: 60;
+	color:#000000;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: -30px;
+	padding:5px;	
+}
+
+td{
+	font-family: Century;
+	color:#000000;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 1px;
+}
+
+.colorp{
+	background-color: #FF8800; 
+	font-family: Century;
+}
+
+.color1{
+	background-color: #FFFACD;
+	font-family: Century;
+}
+
+th{
+	font-family: Century;
+	color:#000000;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 1px;
+}	
+
+h2{
+	
+	font-family: Century;
+	color:#000000;
+	
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 100px;
+	
+}
+h4{
+	font-family: arial;
+	color:#000000;
+	text-align: center;
+
+	text-transform: uppercase;
+	font-weight: bold;
+	padding:5px;
+}
+
+h3{
+	font-family: Century;
+	font-weight: bold;
+	color:#000000;
+	font-size: 24;
+}
+
+p{
+	font-size : 30pt; 
+	font-family : Century; 
+	font-weight : normal;
+	color:#000000;
+	font-weight: bold;
+	
+}
